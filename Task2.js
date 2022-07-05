@@ -1,4 +1,4 @@
-const mtk = -1;
+const mtk = 80;
 const bahasaIndonesia = 5;
 const bahasaInggris = 10;
 const ipa =  15;
